@@ -272,7 +272,7 @@ export default function Portfolio() {
               </div>
               <div className="flex justify-center space-x-6 mt-8">
                 <Link
-                  href="#"
+                  href="https://github.com/ponyo1114"
                   className="text-gray-300 hover:text-orange-500 transition-colors"
                 >
                   <Github className="w-8 h-8" />
