@@ -17,7 +17,7 @@ export function ContactSection() {
               className="hover:text-orange-400 transition-colors"
               aria-label="Gmailでメール作成"
             >
-              <Mail className="w-8 h-8 text-orange-500" />
+              <Mail className="text-gray-300 hover:text-orange-500 transition-colors" />
             </a>
             <Link
               href="#"
