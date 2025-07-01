@@ -13,7 +13,7 @@ export function HeroSection() {
           </div>
           <div className="relative">
             <div className="bg-green-500 w-full h-96 lg:h-[600px] flex items-center justify-center">
-              <div className="text-white text-6xl md:text-8xl font-bold transform rotate-90 origin-center">
+              <div className="text-white text-6xl lg:text-8xl font-bold transform rotate-90 origin-center">
                 Kakehata<br />Sosuke
               </div>
             </div>
