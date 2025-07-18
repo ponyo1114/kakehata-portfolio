@@ -8,7 +8,7 @@ import { Footer } from "@/components/Footer";
 
 export default function Portfolio() {
   return (
-    <div className="min-h-screen bg-white">
+    <div className="min-h-screen">
       <Navigation />
       <HeroSection />
       <AboutSection />

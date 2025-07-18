@@ -5,7 +5,7 @@ import { ExternalLink } from "lucide-react";
 
 export function ProjectsSection() {
   return (
-    <section id="projects" className="py-20 bg-gray-100">
+    <section id="projects" className="py-20 bg-gray-100/50">
       <div className="container mx-auto px-6">
         <h2 className="text-5xl font-bold mb-16 text-center text-black">プロジェクト</h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
