@@ -1,6 +1,6 @@
 export function AboutSection() {
   return (
-    <section id="about" className="py-20 bg-gray-100">
+    <section id="about" className="py-20 bg-gray-100/50">
       <div className="container mx-auto px-6">
         <div className="grid lg:grid-cols-2 gap-16 items-center">
           <div>
